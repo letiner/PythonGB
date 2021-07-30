@@ -1,1 +1,1 @@
-# PythonGB
+# PythonGB Armand Gornyi (Malcolm)
